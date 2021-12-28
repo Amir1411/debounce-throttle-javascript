@@ -19,5 +19,8 @@
 	"bugs": {
 		"url": "https://github.com/Amir1411/debounce-throttle-javascript/issues"
 	},
-	"homepage": "https://github.com/Amir1411/debounce-throttle-javascript#readme"
+	"homepage": "https://github.com/Amir1411/debounce-throttle-javascript#readme",
+	"publishConfig": {
+		"registry":"https://github.com/Amir1411/debounce-throttle-javascript.git"
+	}
 }
