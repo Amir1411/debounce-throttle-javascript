@@ -1,6 +1,6 @@
 {
 	"name": "debounce-throttle-javascript",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"description": "Debounce and throttle functions to enhance the website performance by limiting/reducing the number of times the handler function is being executed due to user events. User events can be engagements like clicks, scroll, resize, text box inputs, mouse events etc.",
 	"main": "index.js",
 	"scripts": {
@@ -8,7 +8,7 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/Amir1411/debounce-throttle-js.git"
+		"url": "git+https://github.com/Amir1411/debounce-throttle-javascript.git"
 	},
 	"keywords": [
 		"throttle",
@@ -17,7 +17,7 @@
 	"author": "Mohd Amir",
 	"license": "ISC",
 	"bugs": {
-		"url": "https://github.com/Amir1411/debounce-throttle-js/issues"
+		"url": "https://github.com/Amir1411/debounce-throttle-javascript/issues"
 	},
-	"homepage": "https://github.com/Amir1411/debounce-throttle-js#readme"
+	"homepage": "https://github.com/Amir1411/debounce-throttle-javascript#readme"
 }
