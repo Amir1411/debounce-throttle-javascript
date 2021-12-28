@@ -12,7 +12,7 @@
 ## Install
 
 ```sh
-npm install debounce-throttle-js
+npm install debounce-throttle-javascript
 ```
 
 ## Usage
